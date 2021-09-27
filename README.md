@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**Jin-s-work/Jin-s-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sangwoo Jin
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Problem Solving
+
+
+### solved.ac
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=9114jin)](https://solved.ac/9114jin) &nbsp;&nbsp;
+
+
+
+
+2019.03-08 코알라 유니브 1기 수료
+
+
+
+
+Tech Stack
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
+
+
