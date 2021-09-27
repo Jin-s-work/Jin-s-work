@@ -1,6 +1,10 @@
 
 # Sangwoo Jin
 
+Hi, My Name is Sangwoo Jin.
+I'm studying mathematics and computer science in Sogang University.
+
+
 
 ## Problem Solving
 
