@@ -1,5 +1,5 @@
 
-# Sangwoo Jin
+# Sangwoo Jin 
 
 ## Now
 - Sogang Univ. Student (2015~) 👨‍🎓 
@@ -19,26 +19,25 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jin-s-work&show_icons=true&theme=radical&hide=contribs,prs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jin-s-work&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
  
-## Participate
+## Participate 
 - 2019.03 - 2019.08 코알라 유니브 1기   
 - 2020.12 - 2021.02 ICPC Sinchon Algorithm Camp 2021 Winter    
 - 2021.07 - 2021.08 ICPC Sinchon Algorithm Camp 2021 Summer  
 
-## Awards
+## Awards 🏆
 - 2021.08  SUAPC 2021 Summer (2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회) (2위, 현대오토Forever상)    
 
    
     
 
-## Tech Stack   
-#### At least once i used   
+## Tech Stack 🛠️ 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS&logoColor=white"/></a> 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> 
 
 
