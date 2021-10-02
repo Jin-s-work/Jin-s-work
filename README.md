@@ -17,6 +17,7 @@
 
 <!-- ## Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jin-s-work&show_icons=true&theme=radical&hide=contribs,prs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jin-s-work&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jin-s-work&show_icons=true&theme=radical)
  -->
  
 ## Participate 
@@ -28,8 +29,6 @@
 ## Awards 🏆
 - 2021.08  SUAPC 2021 Summer (2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회) (2위, 현대오토Forever상)    
 
-## Github
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jin-s-work&show_icons=true&theme=radical)
 
     
 
