@@ -15,10 +15,10 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=9114jin)](https://solved.ac/9114jin) &nbsp;&nbsp;
 
-<!-- ## Github
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jin-s-work&show_icons=true&theme=radical&hide=contribs,prs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jin-s-work&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Github
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jin-s-work&show_icons=true&theme=radical&hide=contribs,prs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jin-s-work&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jin-s-work&show_icons=true&theme=radical)
- -->
+
  
 ## Participate 
 - 2019.03 - 2019.08 코알라 유니브 1기   
