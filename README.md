@@ -23,7 +23,7 @@
 - 2020.12 - 2021.02 ICPC Sinchon Algorithm Camp 2021 Winter  
 - 2021.01 - 2021.06 GLFP Project (Front-End)  
 - 2021.07 - 2021.08 ICPC Sinchon Algorithm Camp 2021 Summer  
-- 2022.01 - 2022.02 2021 동계 삼성 SDS 알고리즘 캠프 (C++) 
+- 2022.01 - 2022.02 2021 삼성 SDS 동계 알고리즘 특강 (C++) 
 
 ## Awards 🏆
 - 2021.08  SUAPC 2021 Summer (2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회) (2위, 현대오토Forever상)    
