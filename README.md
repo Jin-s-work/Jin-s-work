@@ -23,7 +23,7 @@
 - 2020.12 - 2021.02 ICPC Sinchon Algorithm Camp 2021 Winter  
 - 2021.01 - 2021.06 GLFP Project (Front-End)  
 - 2021.07 - 2021.08 ICPC Sinchon Algorithm Camp 2021 Summer  
-- 2022.01 - 2022.02 2021 삼성 SDS 동계 알고리즘 특강 (C++) 
+- 2022.01 - 2022.02 2022 삼성 SDS 동계 알고리즘 특강 (C++) 
 - 2022.01 - 2022.06 네이버 AI Tech 부스트캠프 (예정)
 
 ## Awards 🏆
