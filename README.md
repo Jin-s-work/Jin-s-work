@@ -16,8 +16,8 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=9114jin)](https://solved.ac/9114jin) &nbsp;&nbsp;
 
 ## Github
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jin-s-work&include_all_commits=true)
- 
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jin-s-work&include_all_commits=true)
+  -->
 ## Participate 
 - 2019.03 - 2019.08 코알라 유니브 1기   
 - 2020.12 - 2021.02 ICPC Sinchon Algorithm Camp 2021 Winter  
