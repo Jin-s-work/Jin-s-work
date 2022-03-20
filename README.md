@@ -1,7 +1,7 @@
 
 # Sangwoo Jin 
 
-## Now
+## School
 - Sogang Univ. Student (2015~2021) 👨‍🎓 
 - Major in Mathematics and Computer Science 📝💻   
 
