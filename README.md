@@ -15,7 +15,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=9114jin)](https://solved.ac/9114jin) &nbsp;&nbsp;
 
-## Github
+<!-- ## Github -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jin-s-work&include_all_commits=true)
   -->
 ## Participate 
