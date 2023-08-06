@@ -26,7 +26,8 @@ Notion Link : [Click here](https://suave-phalange-86d.notion.site/6e962c83eaaa46
 - 2021.01 - 2021.06 GLFP Project (Front-End)  
 - 2021.07 - 2021.08 ICPC Sinchon Algorithm Camp 2021 Summer  
 - 2022.01 - 2022.02 2022 삼성 SDS 동계 알고리즘 특강 (C++) 
-- 2022.01 - 2022.06 네이버 AI Tech 부스트캠프 (추천시스템) 
+- 2022.01 - 2022.06 네이버 AI Tech 부스트캠프 (추천시스템)
+- 2023.03 - 2023.08 Apple Developer Academy @POSTECH (iOS Developer)
 
 ## Awards 🏆
 - 🥈 2021.08  SUAPC 2021 Summer (2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회) (2위 / 56팀, 현대오토Forever상)
@@ -38,9 +39,10 @@ Notion Link : [Click here](https://suave-phalange-86d.notion.site/6e962c83eaaa46
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS&logoColor=white"/></a> 
 
 
 
