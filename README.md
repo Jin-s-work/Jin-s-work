@@ -45,6 +45,6 @@ Notion Link : [Click here](https://suave-phalange-86d.notion.site/6e962c83eaaa46
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS&logoColor=white"/></a> 
 
 [Github 3D]
-![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
+![svg](https://raw.githubusercontent.com/Jin-s-work/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
 
 
