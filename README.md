@@ -2,7 +2,7 @@
 # Sangwoo Jin 
 
 ## School
-- OO University
+- Sogang University
 - Major in Mathematics and Computer Science 📝💻   
 
 ## Portfolio
