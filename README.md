@@ -7,7 +7,7 @@
 
 ## Portfolio
 Notion Link : [Click here](https://suave-phalange-86d.notion.site/6e962c83eaaa467aae6c6d15af0931c9)
-
+Certificate : SQLD, TOEIC 920, OPIC IH
 
 ## Problem Solving
 
