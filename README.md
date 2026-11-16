@@ -2,7 +2,6 @@
 # Sangwoo Jin 
 
 ## School
-- Sogang University
 - Major in Mathematics and Computer Science 📝💻   
 
 ## Portfolio
@@ -30,8 +29,8 @@ Certificate : SQLD, TOEIC 920, OPIC IH
 - 2023.03 - 2023.08 Apple Developer Academy @POSTECH (iOS Developer)
 
 ## Awards 🏆
-- 🥈 2021.08  SUAPC 2021 Summer (2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회) (2위 / 56팀, 현대오토Forever상)
-- 🥇 2022.02  SUAPC 2022 Winter (2022 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회) (1위 / 63팀, 현대 auto e;var sang;)
+- 🥈 2021.08  SUAPC 2021 Summer (2021 OO지역 대학생 프로그래밍 대회 동아리 연합 여름 대회) (2위 / 56팀, 현대오토Forever상)
+- 🥇 2022.02  SUAPC 2022 Winter (2022 OO지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회) (1위 / 63팀, 현대 auto e;var sang;)
 
 
     
